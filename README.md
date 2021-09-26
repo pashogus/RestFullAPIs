@@ -1,2 +1,2 @@
-# RestFullAPIs
-Rest Service with Hibernate config file
+# RestAPI
+Restful API
